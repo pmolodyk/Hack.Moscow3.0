@@ -1,3 +1,4 @@
 __*
 *.db
 *.keys
+.DS_Store
